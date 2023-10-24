@@ -1,6 +1,6 @@
 # R_Code_Random_Forest
 
-This code, writtin in the R programming language, is for Random Forest machine learning classification of a remotely sensed imagery stack. This code was implemented and associated with the Merchant et al. (2022) study, which used Random Forest to classify Synthetic Aperature Radar (SAR) imagery for mapping Arctic hydro-ecological land cover conditions.
+This code, writtin in the R programming language, is for Random Forest machine learning optimization and classification of a remotely sensed imagery stack. This code was implemented and associated with the Merchant et al. (2022) study, which used Random Forest to classify a time-series of Synthetic Aperature Radar (SAR) imagery (backscatter and coherence) for mapping Arctic hydro-ecological land cover conditions.
 
 Citation:
 
